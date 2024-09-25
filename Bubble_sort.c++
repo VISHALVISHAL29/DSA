@@ -16,7 +16,7 @@ class Solution {
 };
 int main()
 { 
-    int arr[] = {7, 12, 9, 11, 3}; 
+    int arr[] = {100 , 90 , 80 , 70 , 60 , 50 , 40 , 30 , 20 , 10 }; 
     int n = sizeof(arr)/sizeof(arr[0]);
     Solution obj ;
     obj.bubbleSort(arr,n);
