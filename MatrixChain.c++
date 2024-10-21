@@ -86,7 +86,7 @@ public:
 };
 int main()
 {
-  int arr[] = {2, 3, 4, 5, 6, 7};
+  int arr[] = {5,10,6,4,5};
   int n = sizeof(arr) / sizeof(arr[0]);
   int m[100][100];
   int s[100][100];
